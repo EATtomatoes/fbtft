@@ -10,7 +10,7 @@ INSTALLATION
   Download kernel sources
   
   cd drivers/video
-  git clone https://github.com/notro/fbtft.git
+  git clone https://github.com/LeMaker/fbtft.git
   
   Add to drivers/video/Kconfig:   source "drivers/video/fbtft/Kconfig"
   Add to drivers/video/Makefile:  obj-y += fbtft/
